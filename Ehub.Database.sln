@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Ehub.Database", "Ehub.Database\Ehub.Database.sqlproj", "{FAEE8209-D790-468B-AE49-A3B6AE1F423D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAEE8209-D790-468B-AE49-A3B6AE1F423D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEE8209-D790-468B-AE49-A3B6AE1F423D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEE8209-D790-468B-AE49-A3B6AE1F423D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FAEE8209-D790-468B-AE49-A3B6AE1F423D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEE8209-D790-468B-AE49-A3B6AE1F423D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAEE8209-D790-468B-AE49-A3B6AE1F423D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2201AE6-CFF1-43FC-866B-483DFC0A57B8}
+	EndGlobalSection
+EndGlobal
