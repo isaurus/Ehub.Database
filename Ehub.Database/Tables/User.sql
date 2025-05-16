@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[Users](
-    [Id] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+    [Id] [nvarchar](128) NOT NULL PRIMARY KEY,
     [IsEnabled] [bit] NOT NULL DEFAULT 1,
     [CreatedAt] [datetime2](7) NOT NULL DEFAULT GETUTCDATE(),
     [UpdatedAt] [datetime2](7) NULL,
